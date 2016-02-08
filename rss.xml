@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Aakar]]></title>
         <description><![CDATA[Aakar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aakar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:09:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 17:32:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aakar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Moksh nu Dwar]]></title>
-            <description><![CDATA[<article><h1>Moksh nu Dwar</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc5bda400e815600babc1d6437c880164cd988cb.jpg"></article>]]></description>
-            <link>undefinedmoksh-nu-dwar/index.html</link>
+            <title><![CDATA[Such Unparalleled Courage]]></title>
+            <description><![CDATA[<article><h1>Such Unparalleled Courage</h1><p>When Shastriji Maharaj began to build the Bochasan Mandir, there were many difficulties in finishing it. So the ceiling of Thakorji’s garbhagruha was done, but there were no shikhars, ghummats or ghummatis. Amid such difficulties, the work for Sarangpur Mandir started. Shastriji Maharaj was of such firm mind and said that it will be supreme. And in Sarangpur, he built a three-storey mandir.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ff02e05-8842-4af6-ba87-957d13713b7e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/aakar/moksh-nu-dwar/index.html</link>
             <guid isPermaLink="false">3d94409b-841a-4ad9-8cde-afde29f26c4f</guid>
-            <pubDate>Mon, 08 Feb 2016 17:09:21 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 17:30:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
